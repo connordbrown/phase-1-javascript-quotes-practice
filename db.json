@@ -54,18 +54,103 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Learn. Love. Code.",
+      "author": "Flatiron School",
+      "id": 12
+    },
+    {
+      "quote": "",
+      "author": "",
+      "id": 13
     }
   ],
   "likes": [
     {
-      "id": 1,
       "quoteId": 1,
-      "createdAt": 1558524356
+      "createdAt": 1693010831,
+      "id": 1
     },
     {
-      "quoteId": 10,
-      "id": 2,
-      "createdAt": 1558524358
+      "quoteId": 1,
+      "createdAt": 1693010831,
+      "id": 2
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1693010833,
+      "id": 3
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1693010834,
+      "id": 4
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1693010834,
+      "id": 5
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1693010835,
+      "id": 6
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1693010835,
+      "id": 7
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1693010836,
+      "id": 8
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1693010836,
+      "id": 9
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1693010837,
+      "id": 10
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1693010837,
+      "id": 11
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1693010837,
+      "id": 12
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1693011003,
+      "id": 13
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1693011106,
+      "id": 14
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1693011107,
+      "id": 15
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1693011107,
+      "id": 16
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1693011116,
+      "id": 17
     }
   ]
 }
